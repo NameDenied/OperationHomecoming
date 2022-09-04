@@ -1,0 +1,13 @@
+hr{
+
+    width: 35%;
+    border-color: #a500ff;
+}
+
+#grad1 {
+    height: 200px;
+    background-color: red; /* For browsers that do not support gradients */
+    background-image: linear-gradient(red, yellow);
+}
+
+

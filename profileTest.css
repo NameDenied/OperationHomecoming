@@ -1,0 +1,54 @@
+.profile-flex-wrapper {
+    justify-content: center;
+    border: 2px solid black;
+    display: flex;
+    width: 50%;
+    margin: auto;
+    flex-direction: column;
+}
+
+.profile-detail-flex-wrapper {
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+.top-row-flex-wrapper {
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+}
+
+.name-flex-wrapper {
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+}
+
+.loc-date-flex-wrapper {
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+}
+
+.followers-flex-wrapper {
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+}
+
+.profile-img {
+    position: relative;
+    left: 20px;
+    bottom: 50px;
+    border: 4px solid white;
+    height: 5vw;
+    width: 5vw;
+    border-radius: 100%;
+}
+
+.profileimgbackdrop{
+    width: auto;
+    height: auto;
+    max-height: 200px;
+}

@@ -1,0 +1,38 @@
+
+body{
+    background: #EAB6C1;
+}
+
+hr {
+    height: 1px;
+    border-color: #bbb;
+    margin-top: -15px;
+    background-color: darkred;
+    width: 800px;
+}
+
+#Title{
+    text-align: center;
+    font-family: 'Magic Retro', sans-serif;
+}
+
+.boundedParagraph{
+    margin-left: 30%;
+    margin-right: 30%;
+    color: darkred;
+}
+
+a {
+    display:block;
+    text-align:center;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    margin-top: auto;
+    margin-bottom: auto;
+}
